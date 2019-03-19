@@ -1,4 +1,9 @@
+"""
+Copyright (C) 2019, Dicong Qiu.
+"""
+
 import tensorflow as tf
+
 
 activations = {
   'linear':  lambda x: x,

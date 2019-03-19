@@ -1,3 +1,7 @@
+"""
+Copyright (C) 2019, Dicong Qiu.
+"""
+
 import tensorflow as tf
 from . import common
 
